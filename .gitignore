@@ -39,3 +39,10 @@
 
 # debug information files
 *.dwo
+
+# Build directories
+build/
+cmake-build-*/
+
+# CodeQL temporary files
+_codeql_detected_source_root
